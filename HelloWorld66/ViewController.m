@@ -24,6 +24,7 @@
     NSLog(@"我热爱我的家乡");
     
     NSLog(@"算了吧，就这样忘了吧");
+    NSLog(@"第四次修改了");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
