@@ -16,6 +16,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"我热爱我的祖国 != 我爱共产党");
+    
+    
+    
+    NSLog(@"我热爱我的家乡");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
