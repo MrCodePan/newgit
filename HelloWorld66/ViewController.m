@@ -25,6 +25,7 @@
     
     NSLog(@"算了吧，就这样忘了吧");
     NSLog(@"第四次修改了");
+    NSLog(@"又修改了一次");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
