@@ -23,6 +23,8 @@
     
     NSLog(@"我热爱我的家乡");
     
+    NSLog(@"算了吧，就这样忘了吧");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
